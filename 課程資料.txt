@@ -1,0 +1,14 @@
+課堂網址資料
+https://github.com/cyc1907
+
+ 安裝 Composer
+
+ 時序宣告(時間戳記)
+ strtotime
+ mktime
+
+ 時序宣告(string)
+ gmdate()
+ data()
+
+ gmdate > array
